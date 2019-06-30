@@ -40,7 +40,7 @@ class Contact extends Component{
 									</div>
 								</div>
 								<div className="row no-margin">
-									<form action="https://formspree.io/jonmpan@jonmpan.com"
+									<form action="https://formspree.io/sundar.15bcs1548@cumail.in"
 									method="POST" className="col s12 no-padding">
 										<div className="row no-margin">
 											<div className="input-field col s12">
@@ -87,7 +87,7 @@ class Contact extends Component{
 							<div className="card-panel black darken-4 white-text center">
 								<i className="material-icons large">email</i>
 								<h5>Or you can email me directly at:</h5>
-								<h6>jonmpan@jonmpan.com</h6>
+								<h6>sundar.15bcs1548@cumail.in</h6>
 							</div>
 						</div>
 						
