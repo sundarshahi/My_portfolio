@@ -17,7 +17,7 @@ class Slider extends Component {
 					<li>
 						<img src="/assets/img/background1-compressed.jpg" alt="By Noah Erickson from Pexels" />
 						<div className="caption center-align">
-							<h3 className="grey-text text-lighten-2">Welcome to Jonathan Pan&apos;s <strong className="blue-text text-lighten-2">Portfolio</strong>!</h3>
+							<h3 className="grey-text text-lighten-2">Welcome to Sundar Shahi Thakuri&apos;s <strong className="blue-text text-lighten-2">Portfolio</strong>!</h3>
 							<h5 className="light grey-text text-lighten-5 hide-on-small-only"><strong>Here you will find an individual who enjoys coding! That&apos;s right, I enjoy it!</strong></h5>
 						</div>
 					</li>
