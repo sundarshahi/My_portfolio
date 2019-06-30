@@ -30,16 +30,16 @@ class AboutMe extends Component{
 							<div className="col s12 m6 l6 left-align">
 								<h4 className="no-margin">About <strong className="indigo-text">Me</strong></h4>
 								<p className="">
-									Hi! I&apos;m Jonathan Pan. I am a full stack developer currently living in San Jose, CA.
+									Hi! I&apos;m Sundar Shahi Thakuri. I am a Computer Science Engineer specialized in Computational Intelligence. I currently living in Kapan,Kathmandu, Nepal.
 								</p>
 								<p>
-									I enjoy coding for both the front end and the back end. In particular, I enjoy the sense of pride and accomplishment when combining everything into a complete project.
+									I am a fullstack developer. I enjoy coding for both the front end and the back end. In particular, I enjoy the sense of pride and accomplishment when combining everything into a complete project.
 								</p>
 								<p className="">
-									I am excited to finally pursue my passion for computers, web-development, and coding.
+									I am excited to finally pursue my passion for computer science, web-development, and coding.
 								</p>
 								<p className="hide-on-med-only hide-on-small-only">
-									Outside of coding, I am a pretty plain and normal individual. I like my pets, playing video games, sleeping, and just living a simple life.
+									Outside of coding, I am a pretty plain and normal individual. I like to cook, playing video games, exploring things and places, and just living a simple life.
 								</p>
 								<p className="hide-on-med-only hide-on-small-only">
 									(P.S. Don&apos;t click on my picture or my cat&apos;s picture!)
